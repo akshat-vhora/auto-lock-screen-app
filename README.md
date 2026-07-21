@@ -2,6 +2,15 @@
 
 An Android app that automatically locks your device screen after a set timer. Built with Jetpack Compose and Material 3.
 
+## Screenshots
+
+<p float="left">
+  <img src="screenshots/home-screen.jpg" width="180" />
+  <img src="screenshots/history-screen.jpg" width="180" />
+  <img src="screenshots/setting-screen-1.jpg" width="180" />
+  <img src="screenshots/setting-screen-2.jpg" width="180" />
+</p>
+
 ## Features
 
 - **Timer-based auto lock** — set 1–120 minutes, device locks when timer hits zero
